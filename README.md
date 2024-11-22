@@ -1,0 +1,2 @@
+# Optimizing-Inventory-Management-and-Sales-strategies-in-Fertilizer-shop
+This project focuses on optimizing sales strategies and inventory management in a fertilizer shop by leveraging primary data collected over three months. Through thorough statistical analysis, actionable insights were provided to the shop owner to improve operational efficiency, minimize wastage, and meet customer demands more effectively.
